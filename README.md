@@ -17,6 +17,11 @@ SI_Hgraph.m
 >> SI_Hgraph(datapath);
 ```
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Taiyou/SocialDefeatStressProtocol/grit80Cont.png">
+  <img width="460" height="300" src="https://github.com/Taiyou/SocialDefeatStressProtocol/grit80SI.png">
+</p>
+
 ## Example2
 ```MATLAB
 >> TestSDandCont
