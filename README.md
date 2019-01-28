@@ -30,6 +30,6 @@ A heatmap of social interaction
 >> TestSDandCont
 ```
 A boxplot contrasting social interaction score in the repeatedly socially defeated model and control groups.
-![Imgur](https://imgur.com/a/PAjdpG1.png)
+![Imgur](https://imgur.com/a/h300zj1.png)
 
 Furthermore, please check codes by yourself.
