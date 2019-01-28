@@ -11,17 +11,25 @@ getCoordinates.m
 SI_Hgraph.m
 ```
 
+`SI_Hgraph` generates heatmaps of object and social interaction.
+
+
 ## Example1
 ```MATLAB
 >> datapath = '/your_directory/SampleData/control';
 >> SI_Hgraph(datapath);
 ```
-
+A heatmap of object interaction
 ![Imgur](https://i.imgur.com/flfOaKM.png)
+
+A heatmap of social interaction
+![Imgur](https://imgur.com/XHzewyP.png)
 
 ## Example2
 ```MATLAB
 >> TestSDandCont
 ```
+A boxplot contrasting social interaction score in the repeatedly socially defeated model and control groups.
+![Imgur](https://imgur.com/a/PAjdpG1.png)
 
 Furthermore, please check codes by yourself.
